@@ -1,0 +1,853 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="par0">
+	<text src="../xhtml/page007.xhtml#blank"/><!-- Blank -->
+	<audio src="../audio/blank.mp3" clipBegin="00:00:00.000" clipEnd="00:00:01.999"/>
+</par>
+<par id="par1">
+	<text src="../xhtml/page002.xhtml#word1"/><!-- Chapter -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:00.08" clipEnd="00:00:00.38"/>
+</par>
+<par id="par2">
+	<text src="../xhtml/page002.xhtml#word2"/><!-- 4. -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:00.38" clipEnd="00:00:00.68"/>
+</par>
+<par id="par3">
+	<text src="../xhtml/page002.xhtml#word3"/><!-- burdens. -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:01.88" clipEnd="00:00:02.14"/>
+</par>
+<par id="par4">
+	<text src="../xhtml/page002.xhtml#word4"/><!-- Oh -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:03.38" clipEnd="00:00:03.54"/>
+</par>
+<par id="par5">
+	<text src="../xhtml/page002.xhtml#word5"/><!-- dear, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:03.54" clipEnd="00:00:03.82"/>
+</par>
+<par id="par6">
+	<text src="../xhtml/page002.xhtml#word6"/><!-- how -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:04.10" clipEnd="00:00:04.32"/>
+</par>
+<par id="par7">
+	<text src="../xhtml/page002.xhtml#word7"/><!-- hard -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:04.32" clipEnd="00:00:04.54"/>
+</par>
+<par id="par8">
+	<text src="../xhtml/page002.xhtml#word8"/><!-- it -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:04.54" clipEnd="00:00:04.74"/>
+</par>
+<par id="par9">
+	<text src="../xhtml/page002.xhtml#word9"/><!-- does -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:04.74" clipEnd="00:00:04.90"/>
+</par>
+<par id="par10">
+	<text src="../xhtml/page002.xhtml#word10"/><!-- seem -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:04.90" clipEnd="00:00:05.12"/>
+</par>
+<par id="par11">
+	<text src="../xhtml/page002.xhtml#word11"/><!-- to -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:05.12" clipEnd="00:00:05.30"/>
+</par>
+<par id="par12">
+	<text src="../xhtml/page002.xhtml#word12"/><!-- take -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:05.30" clipEnd="00:00:05.48"/>
+</par>
+<par id="par13">
+	<text src="../xhtml/page002.xhtml#word13"/><!-- up -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:05.48" clipEnd="00:00:05.64"/>
+</par>
+<par id="par14">
+	<text src="../xhtml/page002.xhtml#word14"/><!-- our -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:05.64" clipEnd="00:00:05.78"/>
+</par>
+<par id="par15">
+	<text src="../xhtml/page002.xhtml#word15"/><!-- packs -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:05.78" clipEnd="00:00:06.10"/>
+</par>
+<par id="par16">
+	<text src="../xhtml/page002.xhtml#word16"/><!-- and -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:06.10" clipEnd="00:00:06.38"/>
+</par>
+<par id="par17">
+	<text src="../xhtml/page002.xhtml#word17"/><!-- go -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:06.38" clipEnd="00:00:06.58"/>
+</par>
+<par id="par18">
+	<text src="../xhtml/page002.xhtml#word18"/><!-- on, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:06.58" clipEnd="00:00:06.90"/>
+</par>
+<par id="par19">
+	<text src="../xhtml/page002.xhtml#word19"/><!-- side-meg, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:07.16" clipEnd="00:00:07.70"/>
+</par>
+<par id="par20">
+	<text src="../xhtml/page002.xhtml#word20"/><!-- the -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:07.94" clipEnd="00:00:08.12"/>
+</par>
+<par id="par21">
+	<text src="../xhtml/page002.xhtml#word21"/><!-- morning -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:08.12" clipEnd="00:00:08.38"/>
+</par>
+<par id="par22">
+	<text src="../xhtml/page002.xhtml#word22"/><!-- after -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:08.38" clipEnd="00:00:08.74"/>
+</par>
+<par id="par23">
+	<text src="../xhtml/page002.xhtml#word23"/><!-- the -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:08.74" clipEnd="00:00:08.92"/>
+</par>
+<par id="par24">
+	<text src="../xhtml/page002.xhtml#word24"/><!-- party. -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:08.92" clipEnd="00:00:09.24"/>
+</par>
+<par id="par25">
+	<text src="../xhtml/page002.xhtml#word25"/><!-- Four, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:09.60" clipEnd="00:00:09.84"/>
+</par>
+<par id="par26">
+	<text src="../xhtml/page002.xhtml#word26"/><!-- now -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:10.12" clipEnd="00:00:10.36"/>
+</par>
+<par id="par27">
+	<text src="../xhtml/page002.xhtml#word27"/><!-- the -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:10.36" clipEnd="00:00:10.52"/>
+</par>
+<par id="par28">
+	<text src="../xhtml/page002.xhtml#word28"/><!-- holidays -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:10.52" clipEnd="00:00:10.86"/>
+</par>
+<par id="par29">
+	<text src="../xhtml/page002.xhtml#word29"/><!-- were -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:10.86" clipEnd="00:00:11.14"/>
+</par>
+<par id="par30">
+	<text src="../xhtml/page002.xhtml#word30"/><!-- over, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:11.14" clipEnd="00:00:11.50"/>
+</par>
+<par id="par31">
+	<text src="../xhtml/page002.xhtml#word31"/><!-- the -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:11.84" clipEnd="00:00:11.94"/>
+</par>
+<par id="par32">
+	<text src="../xhtml/page002.xhtml#word32"/><!-- week -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:11.94" clipEnd="00:00:12.12"/>
+</par>
+<par id="par33">
+	<text src="../xhtml/page002.xhtml#word33"/><!-- of -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:12.12" clipEnd="00:00:12.30"/>
+</par>
+<par id="par34">
+	<text src="../xhtml/page002.xhtml#word34"/><!-- Mary-making -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:12.30" clipEnd="00:00:12.82"/>
+</par>
+<par id="par35">
+	<text src="../xhtml/page002.xhtml#word35"/><!-- did -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:12.82" clipEnd="00:00:13.04"/>
+</par>
+<par id="par36">
+	<text src="../xhtml/page002.xhtml#word36"/><!-- not -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:13.04" clipEnd="00:00:13.26"/>
+</par>
+<par id="par37">
+	<text src="../xhtml/page002.xhtml#word37"/><!-- fit -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:13.26" clipEnd="00:00:13.50"/>
+</par>
+<par id="par38">
+	<text src="../xhtml/page002.xhtml#word38"/><!-- her -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:13.50" clipEnd="00:00:13.70"/>
+</par>
+<par id="par39">
+	<text src="../xhtml/page002.xhtml#word39"/><!-- for -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:13.70" clipEnd="00:00:13.90"/>
+</par>
+<par id="par40">
+	<text src="../xhtml/page002.xhtml#word40"/><!-- going -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:13.90" clipEnd="00:00:14.06"/>
+</par>
+<par id="par41">
+	<text src="../xhtml/page002.xhtml#word41"/><!-- on -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:14.06" clipEnd="00:00:14.32"/>
+</par>
+<par id="par42">
+	<text src="../xhtml/page002.xhtml#word42"/><!-- easily -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:14.32" clipEnd="00:00:14.64"/>
+</par>
+<par id="par43">
+	<text src="../xhtml/page002.xhtml#word43"/><!-- with -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:14.64" clipEnd="00:00:14.90"/>
+</par>
+<par id="par44">
+	<text src="../xhtml/page002.xhtml#word44"/><!-- the -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:14.90" clipEnd="00:00:15.04"/>
+</par>
+<par id="par45">
+	<text src="../xhtml/page002.xhtml#word45"/><!-- task -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:15.04" clipEnd="00:00:15.34"/>
+</par>
+<par id="par46">
+	<text src="../xhtml/page002.xhtml#word46"/><!-- she -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:15.34" clipEnd="00:00:15.60"/>
+</par>
+<par id="par47">
+	<text src="../xhtml/page002.xhtml#word47"/><!-- never -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:15.60" clipEnd="00:00:15.82"/>
+</par>
+<par id="par48">
+	<text src="../xhtml/page002.xhtml#word48"/><!-- liked. -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:15.82" clipEnd="00:00:16.14"/>
+</par>
+<par id="par49">
+	<text src="../xhtml/page002.xhtml#word49"/><!-- I -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:17.26" clipEnd="00:00:17.42"/>
+</par>
+<par id="par50">
+	<text src="../xhtml/page002.xhtml#word50"/><!-- wish -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:17.42" clipEnd="00:00:17.58"/>
+</par>
+<par id="par51">
+	<text src="../xhtml/page002.xhtml#word51"/><!-- it -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:17.58" clipEnd="00:00:17.72"/>
+</par>
+<par id="par52">
+	<text src="../xhtml/page002.xhtml#word52"/><!-- was -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:17.72" clipEnd="00:00:17.82"/>
+</par>
+<par id="par53">
+	<text src="../xhtml/page002.xhtml#word53"/><!-- Christmas -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:17.82" clipEnd="00:00:18.20"/>
+</par>
+<par id="par54">
+	<text src="../xhtml/page002.xhtml#word54"/><!-- or -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:18.20" clipEnd="00:00:18.48"/>
+</par>
+<par id="par55">
+	<text src="../xhtml/page002.xhtml#word55"/><!-- New -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:18.48" clipEnd="00:00:18.66"/>
+</par>
+<par id="par56">
+	<text src="../xhtml/page002.xhtml#word56"/><!-- Year -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:18.66" clipEnd="00:00:18.84"/>
+</par>
+<par id="par57">
+	<text src="../xhtml/page002.xhtml#word57"/><!-- all -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:18.84" clipEnd="00:00:19.10"/>
+</par>
+<par id="par58">
+	<text src="../xhtml/page002.xhtml#word58"/><!-- the -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:19.10" clipEnd="00:00:19.22"/>
+</par>
+<par id="par59">
+	<text src="../xhtml/page002.xhtml#word59"/><!-- time, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:19.22" clipEnd="00:00:19.58"/>
+</par>
+<par id="par60">
+	<text src="../xhtml/page002.xhtml#word60"/><!-- wouldn't -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:19.88" clipEnd="00:00:20.12"/>
+</par>
+<par id="par61">
+	<text src="../xhtml/page002.xhtml#word61"/><!-- it -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:20.12" clipEnd="00:00:20.24"/>
+</par>
+<par id="par62">
+	<text src="../xhtml/page002.xhtml#word62"/><!-- be -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:20.24" clipEnd="00:00:20.34"/>
+</par>
+<par id="par63">
+	<text src="../xhtml/page002.xhtml#word63"/><!-- fun, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:20.34" clipEnd="00:00:20.68"/>
+</par>
+<par id="par64">
+	<text src="../xhtml/page002.xhtml#word64"/><!-- answer -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:20.94" clipEnd="00:00:21.22"/>
+</par>
+<par id="par65">
+	<text src="../xhtml/page002.xhtml#word65"/><!-- Joe, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:21.22" clipEnd="00:00:21.62"/>
+</par>
+<par id="par66">
+	<text src="../xhtml/page002.xhtml#word66"/><!-- yawning -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:21.90" clipEnd="00:00:22.20"/>
+</par>
+<par id="par67">
+	<text src="../xhtml/page002.xhtml#word67"/><!-- dismaly? -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:22.20" clipEnd="00:00:22.78"/>
+</par>
+<par id="par68">
+	<text src="../xhtml/page002.xhtml#word68"/><!-- We -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:23.80" clipEnd="00:00:23.94"/>
+</par>
+<par id="par69">
+	<text src="../xhtml/page002.xhtml#word69"/><!-- shouldn't -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:23.94" clipEnd="00:00:24.22"/>
+</par>
+<par id="par70">
+	<text src="../xhtml/page002.xhtml#word70"/><!-- enjoy -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:24.22" clipEnd="00:00:24.50"/>
+</par>
+<par id="par71">
+	<text src="../xhtml/page002.xhtml#word71"/><!-- ourselves -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:24.50" clipEnd="00:00:24.88"/>
+</par>
+<par id="par72">
+	<text src="../xhtml/page002.xhtml#word72"/><!-- half -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:24.88" clipEnd="00:00:25.20"/>
+</par>
+<par id="par73">
+	<text src="../xhtml/page002.xhtml#word73"/><!-- so -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:25.20" clipEnd="00:00:25.40"/>
+</par>
+<par id="par74">
+	<text src="../xhtml/page002.xhtml#word74"/><!-- much -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:25.40" clipEnd="00:00:25.64"/>
+</par>
+<par id="par75">
+	<text src="../xhtml/page002.xhtml#word75"/><!-- as -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:25.64" clipEnd="00:00:25.80"/>
+</par>
+<par id="par76">
+	<text src="../xhtml/page002.xhtml#word76"/><!-- we -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:25.80" clipEnd="00:00:25.92"/>
+</par>
+<par id="par77">
+	<text src="../xhtml/page002.xhtml#word77"/><!-- do -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:25.92" clipEnd="00:00:26.08"/>
+</par>
+<par id="par78">
+	<text src="../xhtml/page002.xhtml#word78"/><!-- now. -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:26.08" clipEnd="00:00:26.28"/>
+</par>
+<par id="par79">
+	<text src="../xhtml/page002.xhtml#word79"/><!-- But -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:27.28" clipEnd="00:00:27.46"/>
+</par>
+<par id="par80">
+	<text src="../xhtml/page002.xhtml#word80"/><!-- it -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:27.46" clipEnd="00:00:27.60"/>
+</par>
+<par id="par81">
+	<text src="../xhtml/page002.xhtml#word81"/><!-- does -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:27.60" clipEnd="00:00:27.74"/>
+</par>
+<par id="par82">
+	<text src="../xhtml/page002.xhtml#word82"/><!-- seem -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:27.74" clipEnd="00:00:28.00"/>
+</par>
+<par id="par83">
+	<text src="../xhtml/page002.xhtml#word83"/><!-- so -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:28.00" clipEnd="00:00:28.26"/>
+</par>
+<par id="par84">
+	<text src="../xhtml/page002.xhtml#word84"/><!-- nice -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:28.26" clipEnd="00:00:28.56"/>
+</par>
+<par id="par85">
+	<text src="../xhtml/page002.xhtml#word85"/><!-- to -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:28.56" clipEnd="00:00:28.82"/>
+</par>
+<par id="par86">
+	<text src="../xhtml/page002.xhtml#word86"/><!-- have -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:28.82" clipEnd="00:00:28.96"/>
+</par>
+<par id="par87">
+	<text src="../xhtml/page002.xhtml#word87"/><!-- little -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:28.96" clipEnd="00:00:29.20"/>
+</par>
+<par id="par88">
+	<text src="../xhtml/page002.xhtml#word88"/><!-- suppers -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:29.20" clipEnd="00:00:29.66"/>
+</par>
+<par id="par89">
+	<text src="../xhtml/page002.xhtml#word89"/><!-- and -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:29.66" clipEnd="00:00:29.82"/>
+</par>
+<par id="par90">
+	<text src="../xhtml/page002.xhtml#word90"/><!-- bouquets, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:29.82" clipEnd="00:00:30.42"/>
+</par>
+<par id="par91">
+	<text src="../xhtml/page002.xhtml#word91"/><!-- and -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:30.66" clipEnd="00:00:30.84"/>
+</par>
+<par id="par92">
+	<text src="../xhtml/page002.xhtml#word92"/><!-- go -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:30.84" clipEnd="00:00:31.00"/>
+</par>
+<par id="par93">
+	<text src="../xhtml/page002.xhtml#word93"/><!-- to -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:31.00" clipEnd="00:00:31.14"/>
+</par>
+<par id="par94">
+	<text src="../xhtml/page002.xhtml#word94"/><!-- parties, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:31.14" clipEnd="00:00:31.54"/>
+</par>
+<par id="par95">
+	<text src="../xhtml/page002.xhtml#word95"/><!-- and -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:31.96" clipEnd="00:00:32.10"/>
+</par>
+<par id="par96">
+	<text src="../xhtml/page002.xhtml#word96"/><!-- drive -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:32.10" clipEnd="00:00:32.34"/>
+</par>
+<par id="par97">
+	<text src="../xhtml/page002.xhtml#word97"/><!-- home, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:32.34" clipEnd="00:00:32.70"/>
+</par>
+<par id="par98">
+	<text src="../xhtml/page002.xhtml#word98"/><!-- and -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:32.84" clipEnd="00:00:33.10"/>
+</par>
+<par id="par99">
+	<text src="../xhtml/page002.xhtml#word99"/><!-- red -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:33.10" clipEnd="00:00:33.30"/>
+</par>
+<par id="par100">
+	<text src="../xhtml/page002.xhtml#word100"/><!-- and -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:33.30" clipEnd="00:00:33.50"/>
+</par>
+<par id="par101">
+	<text src="../xhtml/page002.xhtml#word101"/><!-- rest, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:33.50" clipEnd="00:00:33.78"/>
+</par>
+<par id="par102">
+	<text src="../xhtml/page002.xhtml#word102"/><!-- and -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:34.08" clipEnd="00:00:34.20"/>
+</par>
+<par id="par103">
+	<text src="../xhtml/page002.xhtml#word103"/><!-- not -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:34.20" clipEnd="00:00:34.38"/>
+</par>
+<par id="par104">
+	<text src="../xhtml/page002.xhtml#word104"/><!-- work. -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:34.38" clipEnd="00:00:34.66"/>
+</par>
+<par id="par105">
+	<text src="../xhtml/page002.xhtml#word105"/><!-- It's -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:35.78" clipEnd="00:00:35.98"/>
+</par>
+<par id="par106">
+	<text src="../xhtml/page002.xhtml#word106"/><!-- like -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:35.98" clipEnd="00:00:36.10"/>
+</par>
+<par id="par107">
+	<text src="../xhtml/page002.xhtml#word107"/><!-- other -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:36.10" clipEnd="00:00:36.34"/>
+</par>
+<par id="par108">
+	<text src="../xhtml/page002.xhtml#word108"/><!-- people, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:36.34" clipEnd="00:00:36.70"/>
+</par>
+<par id="par109">
+	<text src="../xhtml/page002.xhtml#word109"/><!-- you -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:36.98" clipEnd="00:00:37.14"/>
+</par>
+<par id="par110">
+	<text src="../xhtml/page002.xhtml#word110"/><!-- know, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:37.14" clipEnd="00:00:37.34"/>
+</par>
+<par id="par111">
+	<text src="../xhtml/page002.xhtml#word111"/><!-- and -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:37.62" clipEnd="00:00:37.78"/>
+</par>
+<par id="par112">
+	<text src="../xhtml/page002.xhtml#word112"/><!-- I -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:37.78" clipEnd="00:00:37.90"/>
+</par>
+<par id="par113">
+	<text src="../xhtml/page002.xhtml#word113"/><!-- always -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:37.90" clipEnd="00:00:38.20"/>
+</par>
+<par id="par114">
+	<text src="../xhtml/page002.xhtml#word114"/><!-- envy -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:38.20" clipEnd="00:00:38.52"/>
+</par>
+<par id="par115">
+	<text src="../xhtml/page002.xhtml#word115"/><!-- girls -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:38.52" clipEnd="00:00:38.80"/>
+</par>
+<par id="par116">
+	<text src="../xhtml/page002.xhtml#word116"/><!-- who -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:38.80" clipEnd="00:00:39.02"/>
+</par>
+<par id="par117">
+	<text src="../xhtml/page002.xhtml#word117"/><!-- do -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:39.02" clipEnd="00:00:39.16"/>
+</par>
+<par id="par118">
+	<text src="../xhtml/page002.xhtml#word118"/><!-- such -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:39.16" clipEnd="00:00:39.44"/>
+</par>
+<par id="par119">
+	<text src="../xhtml/page002.xhtml#word119"/><!-- things. -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:39.44" clipEnd="00:00:39.74"/>
+</par>
+<par id="par120">
+	<text src="../xhtml/page002.xhtml#word120"/><!-- I'm -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:39.74" clipEnd="00:00:40.40"/>
+</par>
+<par id="par121">
+	<text src="../xhtml/page002.xhtml#word121"/><!-- so -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:40.40" clipEnd="00:00:40.56"/>
+</par>
+<par id="par122">
+	<text src="../xhtml/page002.xhtml#word122"/><!-- fond -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:40.56" clipEnd="00:00:40.82"/>
+</par>
+<par id="par123">
+	<text src="../xhtml/page002.xhtml#word123"/><!-- of -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:40.82" clipEnd="00:00:41.00"/>
+</par>
+<par id="par124">
+	<text src="../xhtml/page002.xhtml#word124"/><!-- luxury, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:41.00" clipEnd="00:00:41.36"/>
+</par>
+<par id="par125">
+	<text src="../xhtml/page002.xhtml#word125"/><!-- said -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:41.74" clipEnd="00:00:41.96"/>
+</par>
+<par id="par126">
+	<text src="../xhtml/page002.xhtml#word126"/><!-- Meg, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:41.96" clipEnd="00:00:42.30"/>
+</par>
+<par id="par127">
+	<text src="../xhtml/page002.xhtml#word127"/><!-- trying -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:42.52" clipEnd="00:00:42.84"/>
+</par>
+<par id="par128">
+	<text src="../xhtml/page002.xhtml#word128"/><!-- to -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:42.84" clipEnd="00:00:43.04"/>
+</par>
+<par id="par129">
+	<text src="../xhtml/page002.xhtml#word129"/><!-- decide -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:43.04" clipEnd="00:00:43.34"/>
+</par>
+<par id="par130">
+	<text src="../xhtml/page002.xhtml#word130"/><!-- which -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:43.34" clipEnd="00:00:43.62"/>
+</par>
+<par id="par131">
+	<text src="../xhtml/page002.xhtml#word131"/><!-- of -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:43.62" clipEnd="00:00:43.76"/>
+</par>
+<par id="par132">
+	<text src="../xhtml/page002.xhtml#word132"/><!-- two -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:43.76" clipEnd="00:00:43.96"/>
+</par>
+<par id="par133">
+	<text src="../xhtml/page002.xhtml#word133"/><!-- shabby -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:43.96" clipEnd="00:00:44.38"/>
+</par>
+<par id="par134">
+	<text src="../xhtml/page002.xhtml#word134"/><!-- gowns -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:44.38" clipEnd="00:00:44.82"/>
+</par>
+<par id="par135">
+	<text src="../xhtml/page002.xhtml#word135"/><!-- was -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:44.82" clipEnd="00:00:44.96"/>
+</par>
+<par id="par136">
+	<text src="../xhtml/page002.xhtml#word136"/><!-- the -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:44.96" clipEnd="00:00:45.14"/>
+</par>
+<par id="par137">
+	<text src="../xhtml/page002.xhtml#word137"/><!-- least -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:45.14" clipEnd="00:00:45.32"/>
+</par>
+<par id="par138">
+	<text src="../xhtml/page002.xhtml#word138"/><!-- shabby. -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:45.38" clipEnd="00:00:45.86"/>
+</par>
+<par id="par139">
+	<text src="../xhtml/page002.xhtml#word139"/><!-- Well, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:46.90" clipEnd="00:00:47.08"/>
+</par>
+<par id="par140">
+	<text src="../xhtml/page002.xhtml#word140"/><!-- we -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:47.32" clipEnd="00:00:47.42"/>
+</par>
+<par id="par141">
+	<text src="../xhtml/page002.xhtml#word141"/><!-- can't -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:47.42" clipEnd="00:00:47.74"/>
+</par>
+<par id="par142">
+	<text src="../xhtml/page002.xhtml#word142"/><!-- have -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:47.74" clipEnd="00:00:47.90"/>
+</par>
+<par id="par143">
+	<text src="../xhtml/page002.xhtml#word143"/><!-- it, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:47.90" clipEnd="00:00:48.12"/>
+</par>
+<par id="par144">
+	<text src="../xhtml/page002.xhtml#word144"/><!-- so -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:48.30" clipEnd="00:00:48.44"/>
+</par>
+<par id="par145">
+	<text src="../xhtml/page002.xhtml#word145"/><!-- don't -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:48.44" clipEnd="00:00:48.68"/>
+</par>
+<par id="par146">
+	<text src="../xhtml/page002.xhtml#word146"/><!-- let -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:48.68" clipEnd="00:00:48.84"/>
+</par>
+<par id="par147">
+	<text src="../xhtml/page002.xhtml#word147"/><!-- us -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:48.84" clipEnd="00:00:49.00"/>
+</par>
+<par id="par148">
+	<text src="../xhtml/page002.xhtml#word148"/><!-- grumble, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:49.00" clipEnd="00:00:49.40"/>
+</par>
+<par id="par149">
+	<text src="../xhtml/page002.xhtml#word149"/><!-- but -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:49.68" clipEnd="00:00:49.84"/>
+</par>
+<par id="par150">
+	<text src="../xhtml/page002.xhtml#word150"/><!-- shoulder -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:49.84" clipEnd="00:00:50.12"/>
+</par>
+<par id="par151">
+	<text src="../xhtml/page002.xhtml#word151"/><!-- our -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:50.12" clipEnd="00:00:50.34"/>
+</par>
+<par id="par152">
+	<text src="../xhtml/page002.xhtml#word152"/><!-- bundles -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:50.34" clipEnd="00:00:50.84"/>
+</par>
+<par id="par153">
+	<text src="../xhtml/page002.xhtml#word153"/><!-- and -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:50.84" clipEnd="00:00:51.14"/>
+</par>
+<par id="par154">
+	<text src="../xhtml/page002.xhtml#word154"/><!-- trudge -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:51.18" clipEnd="00:00:51.46"/>
+</par>
+<par id="par155">
+	<text src="../xhtml/page002.xhtml#word155"/><!-- along -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:51.46" clipEnd="00:00:51.68"/>
+</par>
+<par id="par156">
+	<text src="../xhtml/page002.xhtml#word156"/><!-- as -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:51.68" clipEnd="00:00:51.90"/>
+</par>
+<par id="par157">
+	<text src="../xhtml/page002.xhtml#word157"/><!-- cheerfully -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:51.90" clipEnd="00:00:52.36"/>
+</par>
+<par id="par158">
+	<text src="../xhtml/page002.xhtml#word158"/><!-- as -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:52.36" clipEnd="00:00:52.56"/>
+</par>
+<par id="par159">
+	<text src="../xhtml/page002.xhtml#word159"/><!-- Marmy -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:52.56" clipEnd="00:00:52.90"/>
+</par>
+<par id="par160">
+	<text src="../xhtml/page002.xhtml#word160"/><!-- does. -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:52.90" clipEnd="00:00:53.12"/>
+</par>
+<par id="par161">
+	<text src="../xhtml/page002.xhtml#word161"/><!-- I'm -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:54.34" clipEnd="00:00:54.54"/>
+</par>
+<par id="par162">
+	<text src="../xhtml/page002.xhtml#word162"/><!-- sure -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:54.54" clipEnd="00:00:54.72"/>
+</par>
+<par id="par163">
+	<text src="../xhtml/page002.xhtml#word163"/><!-- Aunt -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:54.72" clipEnd="00:00:54.92"/>
+</par>
+<par id="par164">
+	<text src="../xhtml/page002.xhtml#word164"/><!-- March -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:54.92" clipEnd="00:00:55.14"/>
+</par>
+<par id="par165">
+	<text src="../xhtml/page002.xhtml#word165"/><!-- is -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:55.14" clipEnd="00:00:55.34"/>
+</par>
+<par id="par166">
+	<text src="../xhtml/page002.xhtml#word166"/><!-- a -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:55.34" clipEnd="00:00:55.46"/>
+</par>
+<par id="par167">
+	<text src="../xhtml/page002.xhtml#word167"/><!-- regular -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:55.46" clipEnd="00:00:55.76"/>
+</par>
+<par id="par168">
+	<text src="../xhtml/page002.xhtml#word168"/><!-- old -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:55.76" clipEnd="00:00:56.06"/>
+</par>
+<par id="par169">
+	<text src="../xhtml/page002.xhtml#word169"/><!-- man -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:56.06" clipEnd="00:00:56.30"/>
+</par>
+<par id="par170">
+	<text src="../xhtml/page002.xhtml#word170"/><!-- of -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:56.30" clipEnd="00:00:56.44"/>
+</par>
+<par id="par171">
+	<text src="../xhtml/page002.xhtml#word171"/><!-- the -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:56.44" clipEnd="00:00:56.56"/>
+</par>
+<par id="par172">
+	<text src="../xhtml/page002.xhtml#word172"/><!-- sea -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:56.56" clipEnd="00:00:56.76"/>
+</par>
+<par id="par173">
+	<text src="../xhtml/page002.xhtml#word173"/><!-- to -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:56.76" clipEnd="00:00:56.90"/>
+</par>
+<par id="par174">
+	<text src="../xhtml/page002.xhtml#word174"/><!-- me, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:56.90" clipEnd="00:00:57.05"/>
+</par>
+<par id="par175">
+	<text src="../xhtml/page002.xhtml#word175"/><!-- but -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:57.05" clipEnd="00:00:57.50"/>
+</par>
+<par id="par176">
+	<text src="../xhtml/page002.xhtml#word176"/><!-- I -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:57.50" clipEnd="00:00:57.62"/>
+</par>
+<par id="par177">
+	<text src="../xhtml/page002.xhtml#word177"/><!-- suppose -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:57.62" clipEnd="00:00:57.92"/>
+</par>
+<par id="par178">
+	<text src="../xhtml/page002.xhtml#word178"/><!-- when -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:57.92" clipEnd="00:00:58.18"/>
+</par>
+<par id="par179">
+	<text src="../xhtml/page002.xhtml#word179"/><!-- I've -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:58.18" clipEnd="00:00:58.38"/>
+</par>
+<par id="par180">
+	<text src="../xhtml/page002.xhtml#word180"/><!-- learned -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:58.38" clipEnd="00:00:58.52"/>
+</par>
+<par id="par181">
+	<text src="../xhtml/page002.xhtml#word181"/><!-- to -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:58.52" clipEnd="00:00:58.70"/>
+</par>
+<par id="par182">
+	<text src="../xhtml/page002.xhtml#word182"/><!-- carry -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:58.70" clipEnd="00:00:58.96"/>
+</par>
+<par id="par183">
+	<text src="../xhtml/page002.xhtml#word183"/><!-- her -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:58.96" clipEnd="00:00:59.14"/>
+</par>
+<par id="par184">
+	<text src="../xhtml/page002.xhtml#word184"/><!-- without -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:59.14" clipEnd="00:00:59.42"/>
+</par>
+<par id="par185">
+	<text src="../xhtml/page002.xhtml#word185"/><!-- complaining, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:00:59.42" clipEnd="00:00:59.94"/>
+</par>
+<par id="par186">
+	<text src="../xhtml/page002.xhtml#word186"/><!-- she -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:00.32" clipEnd="00:01:00.46"/>
+</par>
+<par id="par187">
+	<text src="../xhtml/page002.xhtml#word187"/><!-- will -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:00.46" clipEnd="00:01:00.60"/>
+</par>
+<par id="par188">
+	<text src="../xhtml/page002.xhtml#word188"/><!-- tumble -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:00.60" clipEnd="00:01:00.92"/>
+</par>
+<par id="par189">
+	<text src="../xhtml/page002.xhtml#word189"/><!-- off, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:00.92" clipEnd="00:01:01.16"/>
+</par>
+<par id="par190">
+	<text src="../xhtml/page002.xhtml#word190"/><!-- or -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:01.16" clipEnd="00:01:01.64"/>
+</par>
+<par id="par191">
+	<text src="../xhtml/page002.xhtml#word191"/><!-- get -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:01.64" clipEnd="00:01:01.82"/>
+</par>
+<par id="par192">
+	<text src="../xhtml/page002.xhtml#word192"/><!-- so -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:01.82" clipEnd="00:01:02.04"/>
+</par>
+<par id="par193">
+	<text src="../xhtml/page002.xhtml#word193"/><!-- light -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:02.04" clipEnd="00:01:02.34"/>
+</par>
+<par id="par194">
+	<text src="../xhtml/page002.xhtml#word194"/><!-- that -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:02.34" clipEnd="00:01:02.58"/>
+</par>
+<par id="par195">
+	<text src="../xhtml/page002.xhtml#word195"/><!-- I -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:02.58" clipEnd="00:01:02.72"/>
+</par>
+<par id="par196">
+	<text src="../xhtml/page002.xhtml#word196"/><!-- shawnt -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:02.72" clipEnd="00:01:03.06"/>
+</par>
+<par id="par197">
+	<text src="../xhtml/page002.xhtml#word197"/><!-- mind -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:03.06" clipEnd="00:01:03.30"/>
+</par>
+<par id="par198">
+	<text src="../xhtml/page002.xhtml#word198"/><!-- her. -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:03.30" clipEnd="00:01:03.54"/>
+</par>
+<par id="par199">
+	<text src="../xhtml/page002.xhtml#word199"/><!-- This -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:04.60" clipEnd="00:01:04.76"/>
+</par>
+<par id="par200">
+	<text src="../xhtml/page002.xhtml#word200"/><!-- idea -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:04.76" clipEnd="00:01:05.08"/>
+</par>
+<par id="par201">
+	<text src="../xhtml/page002.xhtml#word201"/><!-- tickled -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:05.08" clipEnd="00:01:05.50"/>
+</par>
+<par id="par202">
+	<text src="../xhtml/page002.xhtml#word202"/><!-- Joe's -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:05.50" clipEnd="00:01:05.84"/>
+</par>
+<par id="par203">
+	<text src="../xhtml/page002.xhtml#word203"/><!-- fancy, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:05.84" clipEnd="00:01:06.20"/>
+</par>
+<par id="par204">
+	<text src="../xhtml/page002.xhtml#word204"/><!-- and -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:06.54" clipEnd="00:01:06.72"/>
+</par>
+<par id="par205">
+	<text src="../xhtml/page002.xhtml#word205"/><!-- put -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:06.72" clipEnd="00:01:06.88"/>
+</par>
+<par id="par206">
+	<text src="../xhtml/page002.xhtml#word206"/><!-- her -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:06.88" clipEnd="00:01:07.02"/>
+</par>
+<par id="par207">
+	<text src="../xhtml/page002.xhtml#word207"/><!-- in -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:07.02" clipEnd="00:01:07.14"/>
+</par>
+<par id="par208">
+	<text src="../xhtml/page002.xhtml#word208"/><!-- good -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:07.14" clipEnd="00:01:07.30"/>
+</par>
+<par id="par209">
+	<text src="../xhtml/page002.xhtml#word209"/><!-- spirits, -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:07.30" clipEnd="00:01:07.74"/>
+</par>
+<par id="par210">
+	<text src="../xhtml/page002.xhtml#word210"/><!-- but -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:08.10" clipEnd="00:01:08.28"/>
+</par>
+<par id="par211">
+	<text src="../xhtml/page002.xhtml#word211"/><!-- Meg. -->
+	<audio src="../audio/page002.mp3" clipBegin="00:01:08.28" clipEnd="00:01:08.56"/>
+</par>
+</body>
+</smil>
